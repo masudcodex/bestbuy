@@ -1,6 +1,7 @@
 import React from 'react';
-import styled from 'styled-components';
+import Announcement from '../components/Announcement';
 import Navbar from '../components/Navbar';
+import Slider from '../components/Slider';
 
 
 
@@ -8,7 +9,9 @@ import Navbar from '../components/Navbar';
 const Home = () => {
     return (
         <div>
+            <Announcement></Announcement>
             <Navbar></Navbar>
+            <Slider></Slider>
         </div>
     );
 };
