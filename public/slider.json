@@ -4,20 +4,20 @@
       "img": "https://i.ibb.co/h1XLNTw/simage4.png",
       "title": "SUMMER SALE",
       "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      "bg": "f5fafd",
+      "bg": "e3f0ff"
     },
     {
       "id": 2,
       "img": "https://i.ibb.co/YDrxVYq/simage3.png",
       "title": "AUTUMN COLLECTION",
       "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      "bg": "fcf1ed",
+      "bg": "fcf1ed"
     },
     {
       "id": 3,
       "img": "https://i.ibb.co/nwNvM3g/simage1.png",
-      "title": "LOUNGEWEAR LOVE",
+      "title": "LONG WEAR LOVE",
       "desc": "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      "bg": "e1f8dc",
+      "bg": "e1f8dc"
     }
 ]
